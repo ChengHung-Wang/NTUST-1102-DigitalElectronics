@@ -3,7 +3,7 @@
 
 <br>
 
-![alt The topic of this course.](./banner.png "The topic of this course.")
+<img src="./banner.png" alt="The topic of this course." style="box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important; width: 100%; border: 1px #aaa solid;">
 
 <br>
 
