@@ -1,0 +1,6 @@
+$DATA1 SOURCE='PrimeSim HSPICE' VERSION='S-2021.09 linux64' PARAM_COUNT=0
+.TITLE '* file: nor_pex.sp'
+ r_time           f_time           ra_pro           fa_pro          
+ rb_pro           fb_pro           temper           alter#          
+  8.700e-11        1.244e-11        1.047e-09        1.316e-11      
+  2.047e-09        1.316e-11         25.0000        1               

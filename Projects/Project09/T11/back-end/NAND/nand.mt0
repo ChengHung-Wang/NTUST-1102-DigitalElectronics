@@ -1,0 +1,6 @@
+$DATA1 SOURCE='PrimeSim HSPICE' VERSION='S-2021.09 linux64' PARAM_COUNT=0
+.TITLE '* file: nand_pex.sp'
+ r_time           f_time           ra_pro           fa_pro          
+ rb_pro           fb_pro           temper           alter#          
+  7.970e-11        5.555e-11       -9.527e-10        4.294e-11      
+  4.729e-11        4.294e-11         25.0000        1               
